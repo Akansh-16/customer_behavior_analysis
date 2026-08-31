@@ -8,7 +8,7 @@ This project analyzes customer shopping data to identify purchasing patterns, cu
 
 The project combines data analysis in Python, business-focused SQL queries, and an interactive Power BI dashboard.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -18,7 +18,7 @@ The project combines data analysis in Python, business-focused SQL queries, and 
 - Power BI
 - Jupyter Notebook
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### Python
 
@@ -60,11 +60,11 @@ The interactive dashboard provides insights into:
 - Filtering by shipping type
 - Filtering by subscription status
 
-## 📊 Dashboard
+##  Dashboard
 
 The Power BI dashboard provides an interactive view of customer shopping behavior and allows users to explore the data using multiple filters.
 
-## 💡 Key Insights
+##  Key Insights
 
 The analysis helps understand:
 
@@ -76,13 +76,13 @@ The analysis helps understand:
 - Repeat purchasing behavior
 - Product performance based on customer reviews
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open the Jupyter Notebook in the `python` folder to explore the data analysis.
 2. Open the SQL file in the `sql` folder to view the business queries.
 3. Download and open the `.pbix` file using Power BI Desktop to explore the interactive dashboard.
 
-## 👨‍💻 Author
+##  Author
 
 **Akansh Singh**
 
